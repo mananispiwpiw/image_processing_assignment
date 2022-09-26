@@ -2,4 +2,4 @@
 
 ## High Pass Filter (HPF)
 
-![lena_hpf](resources/lena.png)
+![lena_hpf](resources/hpf_lena.png)
